@@ -1,0 +1,21 @@
+{
+	"name": "AtelierSophie",
+	"namespace": "sftyzxg",
+	"version_number": "1.0.0",
+	"description": "Brotato Mod of Sophie Neuenmuller from Atelier Series",
+	"website_url": "",
+	"dependencies": ["Darkly77-ContentLoader"],
+	"extra": {
+		"godot": {
+			"authors": ["sftyzxg"],
+			"tags": ["Sophie Neuenmuller", "Atelier Series"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_schema": {}
+		}
+	}
+}

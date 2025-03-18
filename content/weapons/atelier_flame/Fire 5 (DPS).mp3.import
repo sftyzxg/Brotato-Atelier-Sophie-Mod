@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Fire 5 (DPS).mp3-0c4f8878405d12c6936c603997534c74.mp3str"
+
+[deps]
+
+source_file="res://mods-unpacked/sftyzxg-AtelierSophie/content/weapons/atelier_flame/Fire 5 (DPS).mp3"
+dest_files=[ "res://.import/Fire 5 (DPS).mp3-0c4f8878405d12c6936c603997534c74.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
